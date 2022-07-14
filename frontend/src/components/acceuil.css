@@ -1,0 +1,77 @@
+.acceuil{
+    padding: 10%;
+}
+.left{
+    background-color: #334a69;
+    width: 50%;
+    height: auto;
+    float: left;
+    margin-left: 9.5%;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    text-align: left;
+}
+.right{
+    background-color:#f0f3f4   ;
+    width: 30%;
+    height: 100%;
+    float: right;
+    margin-right: 10.4%;
+    padding-bottom: 5%;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5%;
+}
+
+.left h2{
+    background-color:#f0f3f4  ;
+    width: 90%;
+    margin: 10px 24px 10px 24px;
+    color: #515a5a;
+    text-align: center;
+}
+.left h2 span{
+    background-color:#334a69;
+    font-size: 15px;
+    padding: 8px;
+    color:#fff ;
+}
+.projectlist ol li{
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+.projectlist button{
+    border: none;
+    background-color: #334a69;
+    color: #fff;
+    font-weight: bold;
+}
+
+.right p{
+    text-align: left;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.topright{
+    background-color: #334a69;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
+
+.specialcolor1{
+    color:  #fff ;
+}
+.specialbcolor1{
+    background-color: #85c1e9 ;
+}
+
+.right button:focus,
+.left button:focus{
+    box-shadow: none;
+}
